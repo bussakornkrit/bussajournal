@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<div style="text-align: center; background-color: #DCDCDC"><h3> แบบจำลองแบบตัวกระทำเพื่อเลียนแบบปฏิสัมพันธ์ระหว่างแตนเบียนและหนอนหัวดำในสวนมะพร้าว </h3></div>
+<div style="text-align: center; background-color: #F0F8FF"><h3> แบบจำลองแบบตัวกระทำเพื่อเลียนแบบปฏิสัมพันธ์ระหว่างแตนเบียนและหนอนหัวดำในสวนมะพร้าว </h3></div>
 
 <h3> Agent-Based Modelling for Simulating Interaction between Goniozus Nephantidis and Coconut Black-headed Caterpillar </h3>
 
@@ -20,19 +20,19 @@ layout: default
 </p>
 
 
-#### คำสำคัญ 
+<div style="background-color: #DCDCDC"><h4> คำสำคัญ </h4></div>
 `Agent-based model`; 
 `การควบคุมแมลงศัตรูพืชโดยชีววิธี`; 
 `แตนเบียนหนอนหัวดำมะพร้าว`; 
 `หนอนหัวดำมะพร้าว`
 
 
-#### วัตถุประสงค์
+<div style="background-color: #DCDCDC"><h4> วัตถุประสงค์ </h4></div>
 + เพื่อพัฒนาแบบจำลองแบบตัวกระทำเพื่อเลียนแบบปฏิสัมพันธ์ระหว่างแตนเบียนและหนอนหัวดำในสวนมะพร้าว ที่สามารถปรับแก้ค่าตัวแปรภายในและนำไปใช้งานต่อได้
 + เพื่อประยุกต์ใช้แบบจำลองที่พัฒนาในการจำลองการปล่อยแตนเบียนด้วยแบบรูปทางเวลาและจำนวนแตนเบียนในสถานการณ์ที่กำหนด
 
 
-#### กรอบแนวคิด  
+<div style="background-color: #DCDCDC"><h4> กรอบแนวคิด </h4></div>
 + แบบจำลองแบบตัวกระทำคืออะไร 
   +  sd
   
@@ -49,25 +49,18 @@ layout: default
   ![]()
 
 
-#### วิธีการวิจัย
-```
-1 ออกแบบระบบ
-```
-```
-2 พัฒนาแบบจำลอง 
-```
-```
-3 จำลองระบบในสถานการณ์ (scenarios) ที่กำหนด
-```
+<div style="background-color: #DCDCDC"><h4> วิธีการวิจัย </h4></div>
+1. ออกแบบระบบ
+2. พัฒนาแบบจำลอง 
+3. จำลองระบบในสถานการณ์ (scenarios) ที่กำหนด
 
 
-#### ผลการวิจัยและสรุปผลการวิจัย
+<div style="background-color: #DCDCDC"><h4> ผลการวิจัยและสรุปผลการวิจัย </h4></div>
 + ผลการวิจัยและสรุปผลส่วนการสร้างแบบจำลอง 
   +  sd
   <div class="myvideo">
    <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
-       <source src="https://bussakornkrit.github.io/bussajournal/video/ctpnwasp_demomodel.mp4" type="video/mp4" />
-       
+       <source src="https://bussakornkrit.github.io/bussajournal/video/ctpnwasp_demomodel.mp4" type="video/mp4" />   
    </video>
   </div>
 + ผลการวิจัยและสรุปผลส่วนการใช้แบบจำลองเพื่อทดลอง
@@ -78,6 +71,6 @@ layout: default
   
 
 
-#### อภิปรายผล
+<div style="background-color: #DCDCDC"><h4> อภิปรายผล </h4></div>
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ผลลัพธ์จากการใช้แบบจำลองเพื่อทดลองประสิทธิภาพของสถานการณ์นำเข้าแตนเบียน ระบุว่าการลดรอบเวลานำเข้าแตนเบียนช่วยเพิ่มประสิทธิภาพการกำจัดหนอนหัวดำมะพร้าวได้ดีกว่าการเพิ่มจำนวนแตนเบียน ดังนั้น หากเกษตรกรต้องการเพิ่มโอกาสรักษาต้นมะพร้าว เกษตรกรควรปล่อยแตนเบียนบ่อยครั้งมากขึ้น จะเกิดผลดีกว่าการพยายามเพาะเลี้ยงแตนเบียนจำนวนมากเพื่อปล่อยด้วยความถี่แบบรายเดือน
 </p>
