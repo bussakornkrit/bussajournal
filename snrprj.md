@@ -1,13 +1,9 @@
 ---
 layout: default
 ---
-<style>
-mark { 
-  background-color: yellow;
-}
-</style>
 
-<mark><h3> แบบจำลองแบบตัวกระทำเพื่อเลียนแบบปฏิสัมพันธ์ระหว่างแตนเบียนและหนอนหัวดำในสวนมะพร้าว </h3></mark>
+
+<h3 style="background-color: #FFFF00"> แบบจำลองแบบตัวกระทำเพื่อเลียนแบบปฏิสัมพันธ์ระหว่างแตนเบียนและหนอนหัวดำในสวนมะพร้าว </h3>
 
 ### Agent-Based Modelling for Simulating Interaction between Goniozus Nephantidis and Coconut Black-headed Caterpillar
 
