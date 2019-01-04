@@ -31,16 +31,19 @@ layout: default
 
 
 #### กรอบแนวคิด  
-+ แบบจำลองแบบตัวกระทำคืออะไร
-  *  
++ แบบจำลองแบบตัวกระทำคืออะไร 
+  +  sd
+  
   ![](https://bussakornkrit.github.io/bussajournal/image/agentbasedbasic.png)
   
-+ ความสัมพันธ์ของตัวกระทำหนอนหัวดำ แตนเบียน และต้นมะพร้าว
-  * 
++ ความสัมพันธ์ของตัวกระทำหนอนหัวดำ แตนเบียน และต้นมะพร้าว 
+  + sdsd
+  
   ![](https://bussakornkrit.github.io/bussajournal/image/interaction3agents.png)
   
-+ การประยุกต์ใช้แบบจำลองเพื่อทดลองสถานการณ์นำเข้าแตนเบียน
-  * 
++ การประยุกต์ใช้แบบจำลองเพื่อทดลองสถานการณ์นำเข้าแตนเบียน 
+  + sdsdsd
+  
   ![](https://pandao.github.io/editor.md/examples/images/8.jpg)
 
 
