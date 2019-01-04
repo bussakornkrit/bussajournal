@@ -60,7 +60,15 @@ layout: default
 
 
 #### ผลการวิจัยและสรุปผลการวิจัย
-
++ ผลการวิจัยและสรุปผลส่วนการสร้างแบบจำลอง 
+  +  sd
+  ![]()
++ ผลการวิจัยและสรุปผลส่วนการใช้แบบจำลองเพื่อทดลอง
+  +  sd
+  
+  ![](https://bussakornkrit.github.io/bussajournal/image/cocobestcaseresultgroup1temporal.png)![](https://bussakornkrit.github.io/bussajournal/image/cocobestcaseresultgroup2waspsno.png)
+  ![](https://bussakornkrit.github.io/bussajournal/image/ctpbestcaseresultgroup1temporal.png)![](https://bussakornkrit.github.io/bussajournal/image/ctpbestcaseresultgroup2waspsno.png)
+  
 
 
 #### อภิปรายผล
