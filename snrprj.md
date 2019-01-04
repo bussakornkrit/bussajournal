@@ -62,7 +62,12 @@ layout: default
 #### ผลการวิจัยและสรุปผลการวิจัย
 + ผลการวิจัยและสรุปผลส่วนการสร้างแบบจำลอง 
   +  sd
-  ![]()
+  <div class="myvideo">
+   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+       <source src="https://bussakornkrit.github.io/bussajournal/video/ctpnwasp_demomodel.mp4" type="video/mp4" />
+       
+   </video>
+</div>
 + ผลการวิจัยและสรุปผลส่วนการใช้แบบจำลองเพื่อทดลอง
   +  sd
   
