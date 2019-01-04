@@ -67,7 +67,7 @@ layout: default
        <source src="https://bussakornkrit.github.io/bussajournal/video/ctpnwasp_demomodel.mp4" type="video/mp4" />
        
    </video>
-</div>
+  </div>
 + ผลการวิจัยและสรุปผลส่วนการใช้แบบจำลองเพื่อทดลอง
   +  sd
   
