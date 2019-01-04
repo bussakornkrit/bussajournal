@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<div style="text-align: center;"><h3><span style="background-color: #F5FFFA"> แบบจำลองแบบตัวกระทำเพื่อเลียนแบบปฏิสัมพันธ์ระหว่างแตนเบียนและหนอนหัวดำในสวนมะพร้าว </span></h3></div>
+<div style="text-align: center;"><h3><span style="background-color: ##F5F5F5"> แบบจำลองแบบตัวกระทำเพื่อเลียนแบบปฏิสัมพันธ์ระหว่างแตนเบียนและหนอนหัวดำในสวนมะพร้าว </span></h3></div>
 
 <h3> Agent-Based Modelling for Simulating Interaction between Goniozus Nephantidis and Coconut Black-headed Caterpillar </h3>
 
