@@ -10,6 +10,8 @@ Hello! I am Bussakorn Krittanusarn or YONK. I am studying a geography and geoinf
 
 #### :sun_with_face: [MY SENIOR PROJECT](https://bussakornkrit.github.io/bussajournal/snrprj) :palm_tree: :bug: :beetle:
 
+#### :hourglass_flowing_sand: [SHORT RECAP of UNDERGRAD YEARS](https://bussakornkrit.github.io/bussajournal/portfolio) :mortar_board: :tada: :balloon:
+
 <div style="text-align: center; background-color: #F0F8FF"><h4> COURSES I LOVED from Dept. of Geography </h4></div>
 :earth_americas: [Physical System of Environment](https://bussakornkrit.github.io/bussajournal) <br>
 :partly_sunny: [Climatology](https://bussakornkrit.github.io/bussajournal) <br>
