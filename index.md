@@ -24,10 +24,12 @@ Hello! I am Bussakorn Krittanusarn or YONK. I am studying a geography and geoinf
 [Photogrammetry for Geographer](https://bussakornkrit.github.io/bussajournal) <br>
 [Global Positioning System for Geographer](https://bussakornkrit.github.io/bussajournal) <br>
 [Field Techniques for Geographer](https://bussakornkrit.github.io/bussajournal) <br>
+[Spatial Database for Geographer](https://bussakornkrit.github.io/bussajournal) <br>
 
 [Geographical Thoughts](https://bussakornkrit.github.io/bussajournal) <br>
 [South-East Asian Urban Development](https://bussakornkrit.github.io/bussajournal) <br>
 [Regional Geography](https://bussakornkrit.github.io/bussajournal) <br>
+[Geographical Archaeology](https://bussakornkrit.github.io/bussajournal) <br>
 
 [Seminar in Geography](https://bussakornkrit.github.io/bussajournal) <br>
 [Senior Project in Geography](https://bussakornkrit.github.io/bussajournal) <br>
