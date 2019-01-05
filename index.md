@@ -6,7 +6,7 @@ layout: default
 
 Hello! I am Bussakorn Krittanusarn or YONK. I am studying a geography and geoinformatics major at faculty of Arts, Chulalongkorn university. Here's a journal of things I've learned during my undergraduate years.
  
-#### :girl: [MY CV](https://bussakornkrit.github.io/bussajournal/CV) :bookmark_tabs:
+#### :girl: [CV/RESUME](https://bussakornkrit.github.io/bussajournal/CV) :bookmark_tabs:
 
 #### :sun_with_face: [MY SENIOR PROJECT](https://bussakornkrit.github.io/bussajournal/snrprj) :palm_tree: :bug: :beetle:
 
