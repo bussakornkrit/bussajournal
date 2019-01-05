@@ -11,10 +11,10 @@ Hello! I am Bussakorn Krittanusarn or YONK. I am studying a geography and geoinf
 #### [MY SENIOR PROJECT](https://bussakornkrit.github.io/bussajournal/snrprj)
 
 <div style="text-align: center; background-color: #F0F8FF"><h4> COURSES I LOVED from Dept. of Geography </h4></div>
-[Physical System of Environment](https://bussakornkrit.github.io/bussajournal)
-[Climatology](https://bussakornkrit.github.io/bussajournal)
-[Geographical Hydrology](https://bussakornkrit.github.io/bussajournal)
-[Principle of Geomorphology](https://bussakornkrit.github.io/bussajournal)
+[Physical System of Environment](https://bussakornkrit.github.io/bussajournal) <br>
+[Climatology](https://bussakornkrit.github.io/bussajournal) <br>
+[Geographical Hydrology](https://bussakornkrit.github.io/bussajournal) <br>
+[Principle of Geomorphology](https://bussakornkrit.github.io/bussajournal) <br>
 
 [Geographic Information system I](https://bussakornkrit.github.io/bussajournal)
 [Geographic Information system II](https://bussakornkrit.github.io/bussajournal)
