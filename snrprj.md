@@ -64,23 +64,23 @@ layout: default
   </div>
   + แบบจำลองกรณี long lag time
   <div class="myvideo">
-   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+   <video  style="display:block; width:70%; height:auto;" autoplay controls loop="loop">
        <source src="https://bussakornkrit.github.io/bussajournal/video/ctpwaspsdemo_world_longtimelag.mp4" type="video/mp4" />   
    </video>
   </div>
   <div class="myvideo">
-   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+   <video  style="display:block; width:70%; height:auto;" autoplay controls loop="loop">
        <source src="https://bussakornkrit.github.io/bussajournal/video/ctpwaspsdemo_graph_longtimelag.mp4" type="video/mp4" />   
    </video>
   </div>
   + แบบจำลองกรณี short lag time
   <div class="myvideo">
-   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+   <video  style="display:block; width:70%; height:auto;" autoplay controls loop="loop">
        <source src="https://bussakornkrit.github.io/bussajournal/video/ctpwaspsdemo_world_shorttimelag.mp4" type="video/mp4" />   
    </video>
   </div>
   <div class="myvideo">
-   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+   <video  style="display:block; width:70%; height:auto;" autoplay controls loop="loop">
        <source src="https://bussakornkrit.github.io/bussajournal/video/ctpwaspsdemo_graph_shorttimelag.mp4.mp4" type="video/mp4" />   
    </video>
   </div>
