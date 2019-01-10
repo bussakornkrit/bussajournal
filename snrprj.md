@@ -34,7 +34,7 @@ layout: default
 
 <div style="background-color: #DCDCDC"><h4> กรอบแนวคิด </h4></div>
 <div class="image">
-   <img  src="https://bussakornkrit.github.io/bussajournal/bussajournal/image/framework.JPG"; style="display:block; width:100%; height:auto />
+   <img  src="https://bussakornkrit.github.io/bussajournal/image/framework.JPG"; style="display:block; width:100%; height:auto />
 </div>
 
 
