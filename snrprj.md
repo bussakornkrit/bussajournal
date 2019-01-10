@@ -86,7 +86,7 @@ layout: default
   </div>
   
 + ผลการวิจัยและสรุปผลส่วนการใช้แบบจำลองเพื่อทดลอง
-<div class="image-wrapper">
+<div class="image-wrapper" style="width: 50%;">
   <img src="https://bussakornkrit.github.io/bussajournal/image/barchartall.JPG" alt="image">
 </div>
 div.image-wrapper {
