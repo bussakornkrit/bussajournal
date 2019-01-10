@@ -49,7 +49,7 @@ layout: default
 <div style="background-color: #DCDCDC"><h4> ผลการวิจัยและสรุปผลการวิจัย </h4></div>
 + ผลการวิจัยและสรุปผลส่วนการสร้างแบบจำลอง 
   +  หน้าต่างของแบบจำลอง
-<div class="image-wrapper">
+<div class="image-wrapper" style="width: 60%;">
   <img src="https://bussakornkrit.github.io/bussajournal/image/interface.JPG" alt="image">
 </div>
   <div class="myvideo">
@@ -86,16 +86,9 @@ layout: default
   </div>
   
 + ผลการวิจัยและสรุปผลส่วนการใช้แบบจำลองเพื่อทดลอง
-<div class="image-wrapper" style="width: 50%;">
+<div class="image-wrapper" style="width: 80%;">
   <img src="https://bussakornkrit.github.io/bussajournal/image/barchartall.JPG" alt="image">
 </div>
-div.image-wrapper {
-    width: 70%;
-    height: 0;
-    padding-bottom: 66.67%;
-    border: 2px solid white;
-    position: relative;
-}
   
 
 <div style="background-color: #DCDCDC"><h4> อภิปรายผล </h4></div>
