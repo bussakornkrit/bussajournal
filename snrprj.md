@@ -89,7 +89,7 @@ layout: default
 <div class="image-wrapper">
   <img src="https://bussakornkrit.github.io/bussajournal/image/barchartall.JPG" alt="image">
 </div>
-.image-wrapper {
+div.image-wrapper {
     width: 70%;
     height: 0;
     padding-bottom: 66.67%;
