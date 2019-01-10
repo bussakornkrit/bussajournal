@@ -36,32 +36,60 @@ layout: default
 <div class="image-wrapper">
   <img src="https://bussakornkrit.github.io/bussajournal/image/framework.JPG" alt="image">
 </div>
-<div class="image">
-   <img  src="https://bussakornkrit.github.io/bussajournal/image/framework.JPG"; style="display:block; width:100%; height:auto />
-</div>
 
 
 <div style="background-color: #DCDCDC"><h4> วิธีการวิจัย </h4></div>
-1. ออกแบบระบบ
-2. พัฒนาแบบจำลอง 
-3. จำลองระบบในสถานการณ์ (scenarios) ที่กำหนด
+1. ศึกษาการสร้างแบบจำลอง Agent-based Model ด้วย NetLogo
+2. ศึกษาพฤติกรรมและปฏิสัมพันธ์ของหนอน แตนเบียน และต้นมะพร้าว
+3. พัฒนาแบบจำลองด้วย NetLogo และทดสอบระบบ
+4. ทดลองระบบในสถานการณ์ (scenarios) ที่กำหนด
+5. สรุปผลการวิจัยจากการทดลองสถานการณ์ด้วยแบบจำลอง
 
 
 <div style="background-color: #DCDCDC"><h4> ผลการวิจัยและสรุปผลการวิจัย </h4></div>
 + ผลการวิจัยและสรุปผลส่วนการสร้างแบบจำลอง 
-  +  sd
+  +  หน้าต่างของแบบจำลอง
+<div class="image-wrapper">
+  <img src="https://bussakornkrit.github.io/bussajournal/image/interface.JPG" alt="image">
+</div>
   <div class="myvideo">
    <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
-       <source src="https://bussakornkrit.github.io/bussajournal/video/ctpnwasp_demomodel.mp4" type="video/mp4" />   
+       <source src="https://bussakornkrit.github.io/bussajournal/video/ctpwaspsdemo_fullscr_worsencase.mp4" type="video/mp4" />   
    </video>
   </div>
+  <div class="myvideo">
+   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+       <source src="https://bussakornkrit.github.io/bussajournal/video/ctpwaspsdemo_fullscr_bestcaseofcoco.mp4" type="video/mp4" />   
+   </video>
+  </div>
+  + แบบจำลองกรณี long lag time
+  <div class="myvideo">
+   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+       <source src="https://bussakornkrit.github.io/bussajournal/video/ctpwaspsdemo_world_longtimelag.mp4" type="video/mp4" />   
+   </video>
+  </div>
+  <div class="myvideo">
+   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+       <source src="https://bussakornkrit.github.io/bussajournal/video/ctpwaspsdemo_graph_longtimelag.mp4" type="video/mp4" />   
+   </video>
+  </div>
+  + แบบจำลองกรณี short lag time
+  <div class="myvideo">
+   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+       <source src="https://bussakornkrit.github.io/bussajournal/video/ctpwaspsdemo_world_shorttimelag.mp4" type="video/mp4" />   
+   </video>
+  </div>
+  <div class="myvideo">
+   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+       <source src="https://bussakornkrit.github.io/bussajournal/video/ctpwaspsdemo_graph_shorttimelag.mp4.mp4" type="video/mp4" />   
+   </video>
+  </div>
+  
 + ผลการวิจัยและสรุปผลส่วนการใช้แบบจำลองเพื่อทดลอง
-  +  sd
+<div class="image-wrapper">
+  <img src="https://bussakornkrit.github.io/bussajournal/image/barchartall.JPG" alt="image">
+</div>
   
-  ![](https://bussakornkrit.github.io/bussajournal/image/cocobestcaseresultgroup1temporal.png)![](https://bussakornkrit.github.io/bussajournal/image/cocobestcaseresultgroup2waspsno.png)
-  ![](https://bussakornkrit.github.io/bussajournal/image/ctpbestcaseresultgroup1temporal.png)![](https://bussakornkrit.github.io/bussajournal/image/ctpbestcaseresultgroup2waspsno.png)
-  
-
 
 <div style="background-color: #DCDCDC"><h4> อภิปรายผล </h4></div>
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ผลลัพธ์จากการใช้แบบจำลองเพื่อทดลองประสิทธิภาพของสถานการณ์นำเข้าแตนเบียน ระบุว่าการลดรอบเวลานำเข้าแตนเบียนช่วยเพิ่มประสิทธิภาพการกำจัดหนอนหัวดำมะพร้าวได้ดีกว่าการเพิ่มจำนวนแตนเบียน ดังนั้น หากเกษตรกรต้องการเพิ่มโอกาสรักษาต้นมะพร้าว เกษตรกรควรปล่อยแตนเบียนบ่อยครั้งมากขึ้น จะเกิดผลดีกว่าการพยายามเพาะเลี้ยงแตนเบียนจำนวนมากเพื่อปล่อยด้วยความถี่แบบรายเดือน
