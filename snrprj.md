@@ -53,12 +53,12 @@ layout: default
   <img src="https://bussakornkrit.github.io/bussajournal/image/interface.JPG" alt="image">
 </div>
   <div class="myvideo">
-   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+   <video  style="display:block; width:80%; height:auto;" autoplay controls loop="loop">
        <source src="https://bussakornkrit.github.io/bussajournal/video/ctpwaspsdemo_fullscr_worsencase.mp4" type="video/mp4" />   
    </video>
   </div>
   <div class="myvideo">
-   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+   <video  style="display:block; width:80%; height:auto;" autoplay controls loop="loop">
        <source src="https://bussakornkrit.github.io/bussajournal/video/ctpwaspsdemo_fullscr_bestcaseofcoco.mp4" type="video/mp4" />   
    </video>
   </div>
@@ -89,6 +89,13 @@ layout: default
 <div class="image-wrapper">
   <img src="https://bussakornkrit.github.io/bussajournal/image/barchartall.JPG" alt="image">
 </div>
+.image-wrapper {
+    width: 70%;
+    height: 0;
+    padding-bottom: 66.67%;
+    border: 2px solid white;
+    position: relative;
+}
   
 
 <div style="background-color: #DCDCDC"><h4> อภิปรายผล </h4></div>
